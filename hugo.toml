@@ -72,9 +72,9 @@ url = "/contact/"
 name = "Projects"
 url = "/projects/"
 
-[[params.menu]]
-name = "Metrology"
-url = "/Metrology/"
+# [[params.menu]]
+# name = "Metrology"
+# url = "/Metrology/"
 
 # Syntax highligth on code blocks
 [markup]

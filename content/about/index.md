@@ -7,4 +7,6 @@ Through high school and early college, I focused mainly on music, in particular 
 
 I'm focused on learning the fundamentals of physics and engineering. Physics provides a foundational understanding of the world, and engineering gives the tools required to make things that you require and desire. I enjoy making things that help me understand how the world works, and using my understanding of how the world works to help me make things.
 
-I will be joining [Professor Yide Zhang](https://yzhang34.github.io/) for my PhD at CU Boulder starting July 1st of 2025. I'm excited to start a journey that will push my skills and knowledge beyond my limits!
+For my PhD at CU Boulder, I am working with my advisor, [Professor Yide Zhang](https://boltslab.org/), to make quantum imaging practical.
+
+I would like to thank the National Science Foundation for awarding me the 2026 Graduate Research Fellowship Program.
